@@ -2,10 +2,12 @@
 - Cursando Técnico de Informática para Internet ✏️
 - Viciado em Jogos 🕹️
 - Canto e Produzo 🎙️
+# 
 ## Conhecimentos
 * GIT & GITHUB
 * GML
 * GDScript
+# 
 ## Interesses
 * C#
 * Java
