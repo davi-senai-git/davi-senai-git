@@ -11,4 +11,4 @@
             <a href="https://x.com/amoreutv" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 # 
 ![one-piece-whale](https://github.com/user-attachments/assets/f9d47181-531e-4752-85cb-46b4ca095898)
-### "Ninguém vai me parar, nada mais vai me parar" 🎶
+### ❝Ninguém vai me parar, nada mais vai me parar❞ 🎶
