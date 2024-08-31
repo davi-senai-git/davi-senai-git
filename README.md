@@ -2,6 +2,13 @@
 - Cursando Técnico de Informática para Internet ✏️
 - Viciado em Jogos 🕹️
 - Canto e Produzo 🎙️
+## Conhecimentos
+* GIT & GITHUB
+* GML
+* GDScript
+## Interesses
+* C#
+* Java
 # 
 ## Redes Sociais
 <a href="https://www.youtube.com/@amoreutv" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
